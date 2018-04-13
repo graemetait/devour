@@ -2,7 +2,7 @@
   "name": "devour-client",
   "version": "2.0.8",
   "description": "A lightweight, framework agnostic, flexible JSON API client",
-  "main": "lib/",
+  "main": "src/",
   "scripts": {
     "prepublish": "npm run compile",
     "publish": "git push origin && git push origin --tags",
