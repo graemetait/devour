@@ -1,8 +1,8 @@
 {
-  "name": "devour-client",
-  "version": "2.0.13",
+  "name": "@burriko/devour-client",
+  "version": "2.0.15",
   "description": "A lightweight, framework agnostic, flexible JSON API client",
-  "main": "src/",
+  "main": "lib/",
   "scripts": {
     "prepublish": "npm run compile",
     "publish": "git push origin && git push origin --tags",
